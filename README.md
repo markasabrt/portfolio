@@ -5,7 +5,7 @@ This repository serves as a living archive of my journey in music production, au
 
 ## Featured Work
 *(As I finish tracks, I will list them here with links to the audio files)*
-### Project: [Giygas experiment]
+### >>>>Project: [Giygas experiment]
 *Genre: Experimental Chiptune / Synth-wave*
 
 #### Creative Concept & Inspiration
