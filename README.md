@@ -12,7 +12,7 @@ This repository serves as a living archive of my journey in music production, au
 I did not have a specific goal with this track but i ended up mixing video game sound effects and pop music drums.
 #### Technical Workflow
 *   **The Drum Blueprint:** I used the drum layout from Dead or Alive's "You Spin Me Round (Like a Record)" (transcribed by Captain Pikant). Instead of using a standard loop, I mapped the individual drum samples into FL Studio's **FPC (Fruity Pad Controller)** and programmed a custom, repeating 3-bar drum loop to drive the rhythm.
-*   **Melodic Elements:** The main lead relies on Megaman and Earthbound soundfonts.
+*   **Melodic Elements:** The main lead relies on a Megaman soundfont.
 *   **Sound Design & Manipulation:**
     *   **Intro:** I sampled the *EarthBound* Giygas scream raw (pitched up) to establish an immediate, eerie tension before the synth elements kick in.
     *   **Outro:** At the climax, I chopped the Giygas scream into rapid, shortened bursts which ended up creating a really nice effect. 
