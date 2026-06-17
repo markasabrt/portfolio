@@ -5,26 +5,28 @@ This repository serves as a living archive of my journey in music production, au
 
 ## Featured Work
 *(As I finish tracks, I will list them here with links to the audio files)*
-*   **[Track Title or Project Name]** - *Genre / Style*
-    *   **Description:** A brief sentence on what this is (e.g., "A synth-heavy electronic track experimenting with retro soundfonts").
-    *   **What I Did:** Production, arrangement, and mixing.
-    *   **Technical Detail:** Focused on using FL Studio's native 3xOSC for custom sub-bass patches.
+    ### Project: [Giygas experiment]
+*Genre: Experimental Chiptune / Synth-wave*
+
+#### Creative Concept & Inspiration
+I did not have a specific goal with this track but i ended up mixing video game sound effects and pop music drums.
+#### Technical Workflow
+*   **The Drum Blueprint:** I used the drum layout from Dead or Alive's "You Spin Me Round (Like a Record)" (transcribed by Captain Pikant). Instead of using a standard loop, I mapped the individual drum samples into FL Studio's **FPC (Fruity Pad Controller)** and programmed a custom, repeating 3-bar drum loop to drive the rhythm.
+*   **Melodic Elements:** The main lead relies on Megaman and Earthbound soundfonts.
+*   **Sound Design & Manipulation:**
+    *   **Intro:** I sampled the *EarthBound* Giygas scream raw (pitched up) to establish an immediate, eerie tension before the synth elements kick in.
+    *   **Outro:** At the climax, I chopped the Giygas scream into rapid, shortened bursts which ended up creating a really nice effect. 
+    *   **The Finale:** I exported that chopped sequence, brought it back into the sampler, reversed the audio, and layered it heavily to create a chaotic sound for the track's outro.
 
 ### Software & Environment
 *   **DAW:** FL Studio
-*   **Operating Systems:** Dual-booting Windows (dedicated for proprietary audio) and Linux
-*   **Key Tools:** Soundfonts, stock synthesis engines (3xOSC)
+*   **Operating Systems:** Dual-booting Windows and Linux
+*   **Key Tools:** Soundfonts, stock synthesis engines (3xOSC), chopping samples.
 
 ### Hardware Setup
 *   **Monitors:** Indiana Line Nano.2 passive Hi-Fi speakers
 *   **Amplification:** Aiyima A07 Premium amplifier
 *   **Instruments:** Electric guitar (Yamaha Pacifica 112) & amplifier (Orange crush 12)
-*   **Machine:** Custom-built PC
-
-## Current Goals
-*   Add to this portfolio consistently.
-*   Integrate clean, live electric guitar recordings into digital arrangements.
-*   Document the precise technical workflows (mixing chains, routing) for every finished track.
-
+*   **Machine:** Custom-built computer
 
 "If you don't work hard, someone else will."
