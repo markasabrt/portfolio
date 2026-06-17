@@ -9,7 +9,7 @@ This repository serves as a living archive of my journey in music production, au
 Markdown
 
 Listen to the track here:
-[Play Audio](./tracks/giygas.wav)
+[Play Audio](./tracks/Giygas.wav)
 
 *Genre: Experimental Chiptune / Synth-wave*
 
